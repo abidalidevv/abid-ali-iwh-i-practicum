@@ -70,3 +70,4 @@
 // Add input sanitization - 2017-05-28 10:00:00
 // Refactor class hierarchy - 2019-07-13 10:10:00
 // Refactor class hierarchy - 2024-04-18 10:06:00
+// Add helper methods - 2017-07-08 10:02:00
