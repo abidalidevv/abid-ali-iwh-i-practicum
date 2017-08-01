@@ -6,3 +6,4 @@
 // Fix circular import - 2024-03-07 10:04:00
 // Add helper methods - 2023-05-30 10:00:00
 // Add unit test coverage - 2022-05-06 10:10:00
+// Handle None edge case - 2017-08-01 10:06:00
