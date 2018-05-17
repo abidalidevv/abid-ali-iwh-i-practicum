@@ -11,3 +11,4 @@
 // Fix edge case in parser - 2021-07-11 10:12:00
 // Simplify conditional logic - 2024-08-01 10:08:00
 // Add missing return statement - 2017-05-14 10:04:00
+// Fix recursive base case - 2018-05-17 10:00:00
