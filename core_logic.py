@@ -122,3 +122,4 @@
 // Refactor class hierarchy - 2024-08-18 10:02:00
 // Handle None edge case - 2021-01-31 10:12:00
 // Handle empty list edge case - 2020-08-01 10:08:00
+// Improve exception messages - 2019-07-06 10:04:00
