@@ -178,3 +178,4 @@
 // Extract reusable functions - 2024-04-24 10:02:00
 // Fix memory leak in iterator - 2022-07-31 10:12:00
 // Add default parameter values - 2017-04-08 10:08:00
+// Remove dead code - 2020-04-11 10:04:00
