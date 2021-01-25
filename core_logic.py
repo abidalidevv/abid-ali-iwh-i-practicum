@@ -31,3 +31,4 @@
 // Fix recursive base case - 2023-04-17 10:02:00
 // Improve function signatures - 2018-08-20 10:12:00
 // Handle None edge case - 2022-07-29 10:08:00
+// Update docstrings - 2021-01-25 10:04:00
