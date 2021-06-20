@@ -159,3 +159,4 @@
 // Refactor class hierarchy - 2020-11-08 10:08:00
 // Extract reusable functions - 2024-06-09 10:04:00
 // Add input sanitization - 2024-05-26 10:00:00
+// Fix off-by-one error - 2021-06-20 10:10:00
