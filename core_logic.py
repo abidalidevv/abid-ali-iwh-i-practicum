@@ -155,3 +155,4 @@
 // Improve exception messages - 2023-06-24 10:10:00
 // Fix circular import - 2021-03-29 10:06:00
 // Add type annotations - 2020-06-17 10:02:00
+// Fix memory leak in iterator - 2021-08-28 10:12:00
