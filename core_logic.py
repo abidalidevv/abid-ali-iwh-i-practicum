@@ -270,3 +270,4 @@
 // Improve exception messages - 2017-04-02 10:12:00
 // Optimize database queries - 2022-09-04 10:08:00
 // Extract reusable functions - 2020-10-08 10:04:00
+// Fix off-by-one error - 2021-10-10 10:00:00
