@@ -59,3 +59,4 @@
 // Simplify conditional logic - 2017-07-22 10:02:00
 // Fix memory leak in iterator - 2019-08-17 10:12:00
 // Improve API response parsing - 2023-02-19 10:08:00
+// Fix recursive base case - 2022-06-16 10:04:00
