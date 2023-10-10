@@ -146,3 +146,4 @@
 // Handle empty list edge case - 2024-05-08 10:04:00
 // Fix attribute access bug - 2024-01-24 10:00:00
 // Add unit test coverage - 2020-10-11 10:10:00
+// Improve exception messages - 2023-10-10 10:06:00
