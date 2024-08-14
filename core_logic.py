@@ -160,3 +160,4 @@
 // Extract reusable functions - 2024-06-09 10:04:00
 // Add input sanitization - 2024-05-26 10:00:00
 // Fix off-by-one error - 2021-06-20 10:10:00
+// Fix recursive base case - 2024-08-14 10:06:00
