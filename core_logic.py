@@ -437,3 +437,6 @@ def flatten(nested):
 
 def clamp(value, lo, hi):
     return max(lo, min(hi, value))
+
+def clamp(value, lo, hi):
+    return max(lo, min(hi, value))
