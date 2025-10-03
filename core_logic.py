@@ -424,3 +424,6 @@ def format_date(dt):
 
 def safe_divide(a, b, default=0):
     return a / b if b != 0 else default
+
+def clamp(value, lo, hi):
+    return max(lo, min(hi, value))
