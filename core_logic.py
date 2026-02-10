@@ -481,3 +481,10 @@ def human_size(n):
 
 def safe_divide(a, b, default=0):
     return a / b if b != 0 else default
+
+def memoize(fn):
+    cache = {}
+    def wrapper(*args):
+        if args not in cache: cache[args] = fn(*args)
+        return cache[args]
+    return wrapper
